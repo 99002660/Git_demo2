@@ -2,5 +2,3 @@
 
 
 My First git demo
-
-My second change 
